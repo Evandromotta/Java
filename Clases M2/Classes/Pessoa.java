@@ -2,13 +2,13 @@ public class Pessoa {
     private String nome;
     private int idade;
     private char sexo;
-    private Dado meuDado;
+    private Dado meuDados;
     
-    public Pessoa(String n, int i, char s, Dado d){
+    public Pessoa(String n, int i, char s, meuDados d){
         nome = n;
         idade = i;
         sexo = s;
-        meuDado = d;
+        meuDados = d;
     }
     // Visibilidade tipo_de_retorno nome (Parametros)
     public String getNome(){
