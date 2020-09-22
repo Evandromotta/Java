@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Frota
+comment1.params=v\ lPC\ nLPC\ cC
+comment1.target=Frota(java.lang.String,\ Carga,\ Carga,\ int)
+comment10.params=
+comment10.target=boolean\ descarrega()
+comment11.params=
+comment11.target=void\ exibeInformacoesFrota()
+comment2.params=v
+comment2.target=void\ setVeiculo(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getVeiculo()
+comment4.params=cC
+comment4.target=void\ setCargaCheia(int)
+comment5.params=
+comment5.target=int\ getCargaCheia()
+comment6.params=q
+comment6.target=void\ setQuantidade(int)
+comment7.params=
+comment7.target=int\ getQuantidade()
+comment8.params=
+comment8.target=boolean\ cargaCompleta()
+comment9.params=
+comment9.target=boolean\ carrega()
+numComments=12

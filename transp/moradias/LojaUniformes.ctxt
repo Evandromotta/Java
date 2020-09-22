@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LojaUniformes
+comment1.params=nome\ quantidadesMoletom\ quantidadesCamisa
+comment1.target=LojaUniformes(java.lang.String,\ int,\ int)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=quantidadesMoletom
+comment4.target=void\ setQuantidadesMoletom(int)
+comment5.params=
+comment5.target=int\ getQuantidadesMoletom()
+comment6.params=quantidadesCamisa
+comment6.target=void\ setQuantidadesCamisa(int)
+comment7.params=
+comment7.target=int\ getQuantidadesCamisa()
+comment8.params=
+comment8.target=double\ valorTotal()
+comment9.params=
+comment9.target=void\ exibeInformacoesLojaUniformes()
+numComments=10

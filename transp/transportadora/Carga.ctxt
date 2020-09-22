@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carga
+comment1.params=p\ c
+comment1.target=Carga(java.lang.String,\ boolean)
+comment2.params=p
+comment2.target=void\ setProduto(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getProduto()
+comment4.params=d
+comment4.target=void\ setCarregar(boolean)
+comment5.params=
+comment5.target=boolean\ getCarregar()
+comment6.params=
+comment6.target=void\ deveCarregar()
+comment7.params=
+comment7.target=void\ naoCarregar()
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cidade
+comment0.text=\r\n\ A\ classe\ Cidade\ orientar\u00E1\ o\ cadastro\ concilhando\ \r\n\ as\ quantidades\ de\ aluno\ por\ unidade\ de\ educa\u00E7\u00E3o.\r\n\ Evandro\ Silveira\ da\ Motta)\ \r\n\r\n\ @version\ (29/04/2020)\r\n
+comment1.params=codigoCidade\ descricao\ uf
+comment1.target=Cidade(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getCodigoCidade()
+comment3.params=novoCodigoCidade
+comment3.target=void\ setCodigoCidade(int)
+comment4.params=novaDescricao
+comment4.target=void\ setDescricao(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDescricao()
+comment6.params=novaUf
+comment6.target=void\ setUf(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getUf()
+comment8.params=
+comment8.target=void\ novoEstudante()
+comment9.params=
+comment9.target=void\ exibeDados()
+numComments=10

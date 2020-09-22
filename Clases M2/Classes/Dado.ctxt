@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dado
+comment1.params=nLados
+comment1.target=Dado(int)
+comment2.params=
+comment2.target=void\ jogaDado()
+numComments=3
